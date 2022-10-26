@@ -1,0 +1,15 @@
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.csproj.AssemblyReference.cache
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.AssemblyInfoInputs.cache
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.AssemblyInfo.cs
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.csproj.CoreCompileInputs.cache
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/bin/Debug/net6.0/ConsoleApp12
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/bin/Debug/net6.0/ConsoleApp12.deps.json
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/bin/Debug/net6.0/ConsoleApp12.runtimeconfig.json
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/bin/Debug/net6.0/ConsoleApp12.dll
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/bin/Debug/net6.0/ConsoleApp12.pdb
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.dll
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/refint/ConsoleApp12.dll
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.pdb
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ConsoleApp12.genruntimeconfig.cache
+/Users/m0rp3x/Desktop/c# учеба/файлики/ConsoleApp12/ConsoleApp12/obj/Debug/net6.0/ref/ConsoleApp12.dll
